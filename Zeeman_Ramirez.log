@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.4)  12 AUG 2021 22:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.4)  12 AUG 2021 23:16
 entering extended mode
 **./Zeeman_Ramirez.tex
 (Zeeman_Ramirez.tex
@@ -925,7 +925,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [12] [13] [14] [15 <./picurrent.png>] (Zeeman_Ramirez.aux) ) 
 Here is how much of TeX's memory you used:
  24969 strings out of 478864
- 635914 string characters out of 2848661
+ 635836 string characters out of 2848661
  1079634 words of memory out of 3000000
  42490 multiletter control sequences out of 15000+600000
  414378 words of font info for 68 fonts, out of 8000000 for 9000
@@ -950,7 +950,7 @@ m/cmsy10.pfb><C:/Users/rickr/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmsy8.pfb><C:/Users/rickr/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmti10.pfb><C:/Users/rickr/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Zeeman_Ramirez.pdf (15 pages, 1289282 bytes).
+Output written on Zeeman_Ramirez.pdf (15 pages, 1289305 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
